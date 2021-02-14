@@ -1,0 +1,11 @@
+C:\Users\MSI\Desktop\ProjectC#\Hotel_Project\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\MSI\Desktop\ProjectC#\Hotel_Project\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\MSI\Desktop\ProjectC#\Hotel_Project\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\MSI\Desktop\ProjectC#\Hotel_Project\Hotel\Hotel\obj\Debug\Hotel.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\ProjectC#\Hotel_Project\Hotel\Hotel\obj\Debug\Hotel.Login.resources
+C:\Users\MSI\Desktop\ProjectC#\Hotel_Project\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\MSI\Desktop\ProjectC#\Hotel_Project\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\ProjectC#\Hotel_Project\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\ProjectC#\Hotel_Project\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\MSI\Desktop\ProjectC#\Hotel_Project\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\MSI\Desktop\ProjectC#\Hotel_Project\Hotel\Hotel\obj\Debug\Hotel.Register.resources
