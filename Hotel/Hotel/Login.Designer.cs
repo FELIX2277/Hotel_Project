@@ -41,30 +41,29 @@ namespace Hotel
             // lb_login
             // 
             this.lb_login.AutoSize = true;
-            this.lb_login.Font = new System.Drawing.Font("FC Home", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
-            this.lb_login.Location = new System.Drawing.Point(59, 9);
+            this.lb_login.Location = new System.Drawing.Point(103, 15);
             this.lb_login.Name = "lb_login";
-            this.lb_login.Size = new System.Drawing.Size(163, 70);
+            this.lb_login.Size = new System.Drawing.Size(33, 13);
             this.lb_login.TabIndex = 0;
             this.lb_login.Text = "Login";
             // 
             // tb_username
             // 
-            this.tb_username.Location = new System.Drawing.Point(107, 82);
+            this.tb_username.Location = new System.Drawing.Point(106, 73);
             this.tb_username.Name = "tb_username";
             this.tb_username.Size = new System.Drawing.Size(115, 20);
             this.tb_username.TabIndex = 1;
             // 
             // tb_password
             // 
-            this.tb_password.Location = new System.Drawing.Point(107, 108);
+            this.tb_password.Location = new System.Drawing.Point(106, 99);
             this.tb_password.Name = "tb_password";
             this.tb_password.Size = new System.Drawing.Size(115, 20);
             this.tb_password.TabIndex = 2;
             // 
             // bt_register
             // 
-            this.bt_register.Location = new System.Drawing.Point(147, 134);
+            this.bt_register.Location = new System.Drawing.Point(146, 125);
             this.bt_register.Name = "bt_register";
             this.bt_register.Size = new System.Drawing.Size(75, 23);
             this.bt_register.TabIndex = 3;
@@ -74,7 +73,7 @@ namespace Hotel
             // 
             // bt_login
             // 
-            this.bt_login.Location = new System.Drawing.Point(66, 134);
+            this.bt_login.Location = new System.Drawing.Point(65, 125);
             this.bt_login.Name = "bt_login";
             this.bt_login.Size = new System.Drawing.Size(75, 23);
             this.bt_login.TabIndex = 4;
@@ -84,7 +83,7 @@ namespace Hotel
             // lb_id
             // 
             this.lb_id.AutoSize = true;
-            this.lb_id.Location = new System.Drawing.Point(68, 85);
+            this.lb_id.Location = new System.Drawing.Point(68, 76);
             this.lb_id.Name = "lb_id";
             this.lb_id.Size = new System.Drawing.Size(32, 13);
             this.lb_id.TabIndex = 5;
@@ -93,7 +92,7 @@ namespace Hotel
             // lb_password
             // 
             this.lb_password.AutoSize = true;
-            this.lb_password.Location = new System.Drawing.Point(41, 111);
+            this.lb_password.Location = new System.Drawing.Point(41, 102);
             this.lb_password.Name = "lb_password";
             this.lb_password.Size = new System.Drawing.Size(59, 13);
             this.lb_password.TabIndex = 6;
@@ -103,7 +102,7 @@ namespace Hotel
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(287, 200);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.lb_password);
             this.Controls.Add(this.lb_id);
             this.Controls.Add(this.bt_login);
