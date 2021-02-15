@@ -41,7 +41,7 @@ namespace Hotel
             // lb_login
             // 
             this.lb_login.AutoSize = true;
-            this.lb_login.Location = new System.Drawing.Point(400, 20);
+            this.lb_login.Location = new System.Drawing.Point(103, 15);
             this.lb_login.Name = "lb_login";
             this.lb_login.Size = new System.Drawing.Size(33, 13);
             this.lb_login.TabIndex = 0;
@@ -49,21 +49,21 @@ namespace Hotel
             // 
             // tb_username
             // 
-            this.tb_username.Location = new System.Drawing.Point(403, 78);
+            this.tb_username.Location = new System.Drawing.Point(106, 73);
             this.tb_username.Name = "tb_username";
             this.tb_username.Size = new System.Drawing.Size(115, 20);
             this.tb_username.TabIndex = 1;
             // 
             // tb_password
             // 
-            this.tb_password.Location = new System.Drawing.Point(403, 104);
+            this.tb_password.Location = new System.Drawing.Point(106, 99);
             this.tb_password.Name = "tb_password";
             this.tb_password.Size = new System.Drawing.Size(115, 20);
             this.tb_password.TabIndex = 2;
             // 
             // bt_register
             // 
-            this.bt_register.Location = new System.Drawing.Point(443, 130);
+            this.bt_register.Location = new System.Drawing.Point(146, 125);
             this.bt_register.Name = "bt_register";
             this.bt_register.Size = new System.Drawing.Size(75, 23);
             this.bt_register.TabIndex = 3;
@@ -73,7 +73,7 @@ namespace Hotel
             // 
             // bt_login
             // 
-            this.bt_login.Location = new System.Drawing.Point(362, 130);
+            this.bt_login.Location = new System.Drawing.Point(65, 125);
             this.bt_login.Name = "bt_login";
             this.bt_login.Size = new System.Drawing.Size(75, 23);
             this.bt_login.TabIndex = 4;
@@ -83,16 +83,16 @@ namespace Hotel
             // lb_id
             // 
             this.lb_id.AutoSize = true;
-            this.lb_id.Location = new System.Drawing.Point(373, 81);
+            this.lb_id.Location = new System.Drawing.Point(68, 76);
             this.lb_id.Name = "lb_id";
-            this.lb_id.Size = new System.Drawing.Size(24, 13);
+            this.lb_id.Size = new System.Drawing.Size(32, 13);
             this.lb_id.TabIndex = 5;
-            this.lb_id.Text = "ID :";
+            this.lb_id.Text = "Mail :";
             // 
             // lb_password
             // 
             this.lb_password.AutoSize = true;
-            this.lb_password.Location = new System.Drawing.Point(338, 107);
+            this.lb_password.Location = new System.Drawing.Point(41, 102);
             this.lb_password.Name = "lb_password";
             this.lb_password.Size = new System.Drawing.Size(59, 13);
             this.lb_password.TabIndex = 6;
